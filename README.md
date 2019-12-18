@@ -1,7 +1,7 @@
 # CodeTest
 A code test for a job application. The objective was to create the functionality of the gravity gun from Half-life 2. 
 
-* Standard movement controls with primary and secondary fire on the mouse. Simply walk up to weapon to pick it up and press G to drop the currently held weapon.
+* Standard movement controls with primary and secondary fire on the mouse. Simply walk up to pick up the weapon and press G to drop the currently held weapon.
 
 * Code to be evaluated resides in the Weapon, GravityGun and CodeTestCharacter classes.
 
