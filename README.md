@@ -1,5 +1,5 @@
 # CodeTest
-A code test for a job application. The objective was to create the functionality of the gravity gun form Half-life 2. 
+A code test for a job application. The objective was to create the functionality of the gravity gun from Half-life 2. 
 
 * Standard movement controls with primary and secondary fire on the mouse. Simply walk up to weapon to pick it up and press G to drop the currently held weapon.
 
